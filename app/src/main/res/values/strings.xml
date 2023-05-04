@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EventTracker</string>
+    <string name="event_type">(SPORT/PARTY/TRIP/WEDDING/ETC)</string>
+    <string name="event_type_label">Event Type</string>
+    <string name="event_title">Enter Title of Event</string>
+    <string name="event_title_label">Title</string>
+    <string name="event_location">Enter Address Of Event\'s Location</string>
+    <string name="event_location_label">Location</string>
+    <string name="event_date">-Date of event-</string>
+    <string name="event_date_label">Date</string>
+    <string name="event_attending"># Of People Attending</string>
+    <string name="event_attending_label">People Attending</string>
+    <string name="event_attended">Attended</string>
+    <string name="new_event">New Event</string>
+</resources>
